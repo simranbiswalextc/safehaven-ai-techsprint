@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SafeHaven AI – MVP</title>
+</head>
+<body>
+  <h1>SafeHaven AI</h1>
+  <p>AI-powered safety companion (MVP Prototype)</p>
+
+  <ul>
+    <li>Indoor Safety Scan</li>
+    <li>Outdoor Route Safety</li>
+    <li>Emergency SOS</li>
+  </ul>
+
+  <p>This frontend represents the planned user interface layer.</p>
+</body>
+</html>
